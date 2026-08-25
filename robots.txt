@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://sharifeduc.pages.dev/sitemap.xml
